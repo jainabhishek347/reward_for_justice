@@ -1,5 +1,5 @@
 ### Clone Repository
-- git clone https://github.com/abhishek158005/Reward_for_Justice.git
+- git clone https://github.com/jainabhishek347/reward_for_justice.git
 
 ### Run project in local
 #### Windows
